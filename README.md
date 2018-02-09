@@ -1,2 +1,4 @@
 # PowPowPowershell
-NEAT!
+## NEAT!
+### Authored by: Al
+#### The morbidly depressed dev
